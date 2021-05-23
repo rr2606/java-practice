@@ -1,3 +1,5 @@
+package intro;
+
 public class CLIArgs {
     public static void main(String[] args){
         if(args.length>0){

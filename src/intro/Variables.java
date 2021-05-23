@@ -1,3 +1,5 @@
+package intro;
+
 public class Variables {
     public static void main(String[] args){
         //variable names can't begin with number and can't include special characters other than $ and _
