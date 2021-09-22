@@ -1,7 +1,5 @@
 package practice;
 
-import static practice.ArrStr.takeArrayInput;
-
 public class Arrays {
     // All elements are stored at contiguous memory locations (Advantages: Random Access and Cache Friendliness)
     // arr[0] first element (address of array, address of subsequent elements can be found with this and data size)

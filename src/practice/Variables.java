@@ -22,7 +22,7 @@ public class Variables {
         int x=100;
         long y=x;
         float z=y;
-        System.out.println(x + " " + z+ " " + z);
+        System.out.println(x + " " + y + " " + z);
 
         //narrowing or explicit conversion : possibility for loss of data
         double d = 65.4;
