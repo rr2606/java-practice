@@ -1,4 +1,4 @@
-package intro;
+package practice;
 
 public class CLIArgs {
     public static void main(String[] args){

@@ -1,4 +1,4 @@
-package intro;
+package practice;
 
 public class Variables {
     public static void main(String[] args){
@@ -11,7 +11,7 @@ public class Variables {
         Point point = new Point();
         point.x = 10;
         point.y= 20;
-        System.out.println(name + " is " + age + " years old and weighs " + weight + "kgs" + " and his coordinates are: " + point.toString());
+        System.out.println(name + " is " + age + " years old and weighs " + weight + "kgs" + " and his coordinates are: " + point);
         // Wrapper Classes i.e. Object substitutes for Primitive Types (to be used with collections/generics)
         int x1 = 10;
         Integer x2 = x1; //Autoboxing : converts primitive type to corresponding wrapper class
